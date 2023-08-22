@@ -1,0 +1,59 @@
+﻿ID,Ship Class,Ship Type,Chamber,Min Speed (km/h),Max Speed (km/h),Min Speed Loaded (km/h),Max Speed Loaded (km/h),UKC (m),Height Margin (m),Block Coefficient (%),Engine Power (kW),Mean Draft Empty (m),Residual Resistance Coefficient,Slowsteaming (%),DWT,LOA,Width,Area
+1,M0 (overig),MotorVessel,commercial,10,12,8,10,0.3,0.1,80,150,0.5,0.2,80,160,28,4.2,117.6
+2,M1 (Spits) (CEMT I),MotorVessel,commercial,10,15,8,12,0.3,0.1,80,180,0.5,0.2,80,373,39.76,5.06,201.1856
+3,M2 (Kempenaar) (CEMT II),MotorVessel,commercial,10,17,8,14,0.3,0.1,80,280,0.5,0.2,80,542,52.26,6.42,335.5092
+4,M2-Container (Kempenaar) 2-laags,MotorVessel,commercial,10,17,8,14,0.3,0.1,80,280,0.6,0.2,80,650,55,6.6,363
+5,M3 (Hagenaar) (CEMT III),MotorVessel,commercial,10,17,8,14,0.3,0.1,80,350,0.6,0.2,80,732,62.21,7.15,444.8015
+6,M4 (Dortmund-Emskan) (CEMT III),MotorVessel,commercial,12,17,8,15,0.3,0.1,80,450,0.6,0.2,80,895,67.02,8.02,537.5004
+7,M5 (Verlengde Dortmunder) (CEMT III),MotorVessel,commercial,12,19,9,16,0.3,0.1,80,650,0.6,0.2,80,1148,80.56,8.18,658.9808
+8,M6 (Rijn-Hernekan) (CEMT IV),MotorVessel,commercial,12,19,9,16,0.3,0.1,80,750,0.7,0.2,80,1362,80.56,9.23,743.5688
+9,M6-Container (Rijn-Herne) 3-laags,MotorVessel,commercial,12,19,9,16,0.3,0.1,80,750,0.7,0.2,80,1400,85,9.5,807.5
+10,M7 (Verlengd Rijn-Hernekan) (CEMT IV),MotorVessel,commercial,12,19,9,16,0.3,0.1,80,880,0.7,0.15,80,1910,100.87,9.41,949.1867
+11,M8 (Groot Rijnschip) (CEMT V),MotorVessel,commercial,12,20,10,17,0.3,0.1,80,1250,0.7,0.15,80,2831,106,11.32,1199.92
+12,M8-Container (Groot Rijn) 4-laags,MotorVessel,commercial,12,20,10,17,0.3,0.1,80,1250,0.7,0.15,80,3000,110,11.4,1254
+13,M9 (Verlengd Groot Rijnschip),MotorVessel,commercial,12,20,10,17,0.3,0.1,80,1500,0.8,0.15,80,3699,133,11.45,1522.85
+14,M10 (Breed Groot Rijnschip),MotorVessel,commercial,12,20,10,17,0.3,0.1,80,2000,0.8,0.15,80,3980,107,13.52,1446.64
+15,M11 (Verlengd Breed Groot Rijnschip),MotorVessel,commercial,12,20,10,17,0.3,0.1,80,2200,0.8,0.15,80,4825,134,13.8,1849.2
+16,M12 (Rijnmax),MotorVessel,commercial,12,20,10,17,0.3,0.1,80,2400,0.8,0.15,80,6056,134,16.43,2201.62
+17,"C1b, koppelverband, 2 spitsen breed",VesselConvoy,commercial,6,12,6,8,0.3,0.1,80,1500,0.5,0.2,80,774,46,10.28,472.88
+18,"C1-l, koppelverband, 2 spitsen (lang) (I)",VesselConvoy,commercial,10,15,8,12,0.3,0.1,80,1500,0.5,0.2,80,753,79,5.07,400.53
+19,"C2b, koppelverband, IV + Eur I breed",VesselConvoy,commercial,8,15,6,12,0.3,0.1,80,1500,0.6,0.2,80,2844,89,18.2,1619.8
+20,"C2l, koppelverband, IV+ eur 1 lang(IV B)",VesselConvoy,commercial,6,18,6,12,0.3,0.1,80,1500,0.6,0.2,80,2931,170,9.16,1557.2
+21,"C3b, koppelverband, Va + Eur II breed",VesselConvoy,commercial,8,15,7,12,0.3,0.1,80,2200,0.6,0.2,80,4500,105,22.98,2412.9
+22,"C3l, koppelverband, Va + Eur II lang",VesselConvoy,commercial,6,12,7,12,0.3,0.1,80,2200,0.6,0.2,80,4500,178,11.49,2045.22
+23,"C4, koppelverband, Va + 3xEur II (*)",VesselConvoy,commercial,10,16,8,12,0.3,0.1,80,2400,0.5,0.2,80,8012,182,22.98,4182.36
+24,BO1 duwstel,PushTow,commercial,8,12,7,10,0.3,0.1,80,300,0.4,0.4,80,432,66,5.06,333.96
+25,BO2 duwstel,PushTow,commercial,8,12,7,10,0.3,0.1,80,400,0.4,0.4,80,777,63,6.41,403.83
+26,BO3 duwstel,PushTow,commercial,8,12,7,10,0.3,0.1,80,400,0.4,0.4,80,849,83,7.42,615.86
+27,BO4 duwstel,PushTow,commercial,8,12,7,10,0.3,0.1,80,500,0.4,0.4,80,1098,89,8.11,721.79
+28,BI-1 duwstel Europa I (IV),PushTow,commercial,8,12,6,9,0.3,0.1,80,900,0.4,0.4,80,1320,91,9.39,854.49
+29,BII-1 duwstel Europa II (V),PushTow,commercial,8,15,8,14,0.3,0.1,80,1500,0.4,0.4,80,2164,101,11.49,1160.49
+30,BIIa-1 duwstel Europa IIa (V),PushTow,commercial,10,15,8,14,0.3,0.1,80,1500,0.4,0.4,80,2802,101,11.49,1160.49
+31,BIIL-1 duwstel Europa II Lang(V),PushTow,commercial,8,15,8,14,0.3,0.1,80,1500,0.4,0.4,80,3522,129,11.49,1482.21
+32,"BII-2b duwstel Eur II, 2b breed",PushTow,commercial,8,12,7,10,0.3,0.1,80,2000,0.4,0.4,80,5211,110,22.98,2527.8
+33,BII-2l 2 baks duwstel Europa II (lange form),PushTow,commercial,8,15,8,14,0.3,0.1,80,2000,0.4,0.4,80,5211,180,11.49,2068.2
+34,BII-4 duwstel Eur II 4b,PushTow,commercial,8,12,7,10,0.3,0.1,80,3500,0.4,0.4,80,10422,189,22.98,4343.22
+35,BII-6b duwstel Eur II 6b breed,PushTow,commercial,8,12,7,10,0.3,0.1,80,3900,0.4,0.4,80,15633,180,34.47,6204.6
+36,BII-6l duwstel Eur II 6b lang,PushTow,commercial,8,12,7,10,0.3,0.1,80,3900,0.4,0.4,80,15633,262,22.98,6020.76
+37,passagiersschip binnnenvaart,PassengerShip,commercial,12,18,12,18,0.3,0.3,80,1500,2,0.2,80,31.5,71.21,8.75,623.0875
+38,bruine vloot zeilcharter > 10m hoog (IVR),TraditionalSailboat,recreational,8,18,8,18,0.3,0.5,80,80,0.8,0.2,80,95,29.95,5.64,168.918
+39,sleepboot,Tug,commercial,8,12,8,12,0.3,0.3,80,4000,2,0.2,80,0,30.64,8.94,273.9216
+40,motorjacht klein,MotorYacht,recreational,3,15,3,15,0.1,0.2,80,40,0.8,0.2,80,0,8,2.5,20
+41,zeiljacht klein,SailingYacht,recreational,3,15,3,15,0.1,0.5,80,10,0.4,0.2,80,0,7,2.5,17.5
+42,motorjacht middel,MotorYacht,recreational,4,18,4,18,0.3,0.2,80,80,0.5,0.2,80,0,10.5,3.2,33.6
+43,zeiljacht middel,SailingYacht,recreational,8,14,8,14,0.1,0.1,80,20,0.4,0.2,80,0,10.2,3.3,33.66
+44,motorjacht groot,MotorYacht,recreational,4,18,4,18,0.3,0.2,80,200,0.7,0.2,80,0,13,3.4,44.2
+45,zeiljacht groot,SailingYacht,recreational,10,16,10,16,0.3,0.1,80,30,0.5,0.2,80,0,11.8,3.6,42.48
+46,"Zeeschip Z1, L<=90",SeagoingVessel,commercial,15,17,10,12,0.9,0.3,80,1500,5,0.2,80,2389,78,12.1,943.8
+47,"Zeeschip Z2, 90 < L<=130",SeagoingVessel,commercial,15,17,10,12,0.9,0.3,80,2000,5,0.2,80,4979,104,15.6,1622.4
+48,"Overm Zeeschip Z3, 130 < L <=180",SeagoingVessel,commercial,10,12,7,9,1,0.3,80,2500,5,0.2,80,14290,157.94,22.04,3480.9976
+49,"Overm Zeeschip Z4 'Handysize', 180 < L<=224 B<26",SeagoingVessel,commercial,9,10,8.5,9,1,0.5,80,6000,6,0.2,80,24515,195,23.95,4670.25
+50,"Overm Zeeschip Z5 'Handymax', 180 < L<=224 B>=26",SeagoingVessel,commercial,11,12,8,9,1,0.5,80,6000,6,0.2,80,42895,195,30.81,6007.95
+51,Overm Zeeschip Z5 Car Carrier,SeagoingVessel,commercial,12,13,9,10,1,0.5,80,5000,0.8,0.2,80,17773,195.3,28.1,5487.93
+52,"Overm Zeeschip Z6 'Panamax', 224 < L <= 262",SeagoingVessel,commercial,10,12,8,9,1,0.5,80,8000,6,0.2,80,72890,231,32.3,7461.3
+53,Motorjacht 201,MotorYacht,recreational,3,15,3,15,0.1,0.2,0,0,0,0,0,1,2000,2000,4000000
+54,Volkerak 9001,MotorVessel,recreational,8,15,8,15,0.1,0.3,0,0,0,0,0,1,2000,2000,4000000
+55,passagiersschip klein,PassengerShip,recreational,8,14,8,14,0.3,0.3,0,0,0,0,0,0,28,6,168
+56,passagiersschip fietscruise,PassengerShip,recreational,8,14,8,14,0.3,0.3,0,0,0,0,0,0,47,7,329
+57,passagiersschip oudere riviercruise,PassengerShip,recreational,10,18,10,18,0.3,0.3,0,0,0,0,0,0,95,10.5,997.5
+58,passagiersschip moderne riviercruise,PassengerShip,recreational,12,20,12,20,0.3,0.3,0,0,0,0,0,0,133,11.4,1516.2
