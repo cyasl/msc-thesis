@@ -13,10 +13,10 @@ Here is a short description of content in each notebook:
 * Cleaning the data to get it ready for the prediction. 
 * Inspecting malfunctions in the complex.
 
-## validation_locking_regimes
+## validation_locking_regimes.ipynb
 Visualizing number of ships per lockage for different locking regimes, comparing them with the real observation.
 
-## arrival_analysis_prediction.ipynb (Data Cleaning & Initial Exploration)
+## arrival_analysis_prediction.ipynb (Analysis and Prediction of Arrivals)
 * Identifying arrival pattern
 * Work on seasonality
     - Observing seasonality over the years and per ship class
@@ -25,10 +25,10 @@ Visualizing number of ships per lockage for different locking regimes, comparing
 * Selecting the week to focus as baseline fleet mix
 * Modifying the baseline fleet mix based on IMA, to create the IMA-driven fleet mix
 
-## stress_testing
+## stress_testing.ipynb
 Observing waiting times and emissions under changing fleet intensity and lock condition scenarios.
 
-## univariate_<factor_explored>
+## univariate_<factor_explored>.ipynb
 There are four factors on which univariate experiments are conducted:
 1. Chamber priority
 2. Inspection duration
